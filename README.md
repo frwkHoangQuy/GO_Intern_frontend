@@ -2,6 +2,8 @@
 
 ## Hướng dẫn cài đặt và khởi chạy
 
+Tham khảo ứng dụng fullstack được cài đặt trong docker qua repo: https://github.com/frwkHoangQuy/GO_Docker
+
 ### 1. Cài Đặt Các Gói Cần Thiết
 Sử dụng lệnh sau để cài đặt các gói cần thiết:
 
